@@ -1,11 +1,7 @@
 ---
-layout: default
+permalink: /
+layout: home
+title: Ruby + Sinatra + Slim Recipies
+#list_title: recent recepies
 ---
-# Code Recipies
 
-This is the home page of the myproject documentation.
-
-```ruby
-def myfunction
-end
-```
